@@ -1,0 +1,10 @@
+101;Human Resource;Manages recruitment, employee relations, and company policies.
+102;IT Department;Oversees technical infrastructure, software development, and support.
+103;Finance;Handles budgeting, accounting, and financial planning.
+104;Marketing;Develops advertising strategies and manages brand promotion.
+105;Sales;Focuses on customer acquisition, business growth, and revenue generation.
+106;Operations;Ensures smooth workflow and efficiency across departments.
+107;Customer Support;Assists customers with inquiries, complaints, and technical issues.
+108;Research & Development;Innovates and improves products or services through research.
+109;Legal;Manages contracts, compliance, and legal risks for the company.
+333;Computer Science;New description of cs department is hehe.

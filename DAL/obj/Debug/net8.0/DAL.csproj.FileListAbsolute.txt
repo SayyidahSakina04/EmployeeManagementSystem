@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\bin\Debug\net8.0\DTO.dll
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\bin\Debug\net8.0\DTO.pdb
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\hp\Desktop\PUCIT\Semester_6\SoftwareCD\Homeworks_Assignments\As_1\EmployeeMS\DAL\obj\Debug\net8.0\ref\DAL.dll
